@@ -44,3 +44,9 @@ The entry script copies `game/` and `screenshots/` into the output directory and
 ## License
 
 MIT. Copyright (c) 2026 Immanuel Simatupang.
+
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/verrysimatupang99/makefun-cooking-game-02/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/verrysimatupang99/makefun-cooking-game-02/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
+Built for the [best cooking game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137) on make.fun.
