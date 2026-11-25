@@ -1,4 +1,0 @@
-{
-  "tools": { "skill": false, "task": false, "question": false },
-  "permission": { "bash": "allow", "edit": "allow", "write": "allow", "read": "allow" }
-}
